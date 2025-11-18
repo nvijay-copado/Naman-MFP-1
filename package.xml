@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account-Único page layout</members>
+        <members>Unico__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Unico__c-Único Layout</members>
         <name>Layout</name>
     </types>
     <version>65.0</version>
